@@ -1,0 +1,2 @@
+RewriteEngine on
+DirectoryIndex home.php index.html index.php
